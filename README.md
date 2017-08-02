@@ -1,8 +1,8 @@
 # plain.zsh-theme
 
-![screenshot](https://raw.githubusercontent.com/jimeh/plain.zsh-theme/master/screenshot.png)
-
 A plain and simple theme for ZSH which shows basic git information.
+
+![screenshot](https://raw.githubusercontent.com/jimeh/plain.zsh-theme/master/screenshot.png)
 
 ## License
 
